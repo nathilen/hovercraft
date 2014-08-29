@@ -1,5 +1,5 @@
 :title: Hovercraft! demo
-:data-transition-duration: 1500
+:data-transition-duration: 500
 :css: hovercraft.css
 
 This is a demo for Hovercraft! You can view it as a finished presentation
